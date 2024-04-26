@@ -26,7 +26,6 @@ Here are some of the technologies I work with:
 - Cloud Platforms: Azure, AWS 
 - Tools: Jupyter Notebooks, Scikit-learn, Azure Machine Learning, AWS SageMaker
 - Databases: SQL, MongoDB
-- Others: [Any other relevant technologies]
 
 <!--## My Projects
 
